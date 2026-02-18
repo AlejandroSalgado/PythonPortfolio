@@ -99,7 +99,7 @@ http://127.0.0.1:5000
 http://127.0.0.1:5000
 ```
 ---
-##🎯 Features
+## 🎯 Features
 
 - Responsive UI
 - Flask-based backend structure
@@ -111,13 +111,13 @@ http://127.0.0.1:5000
 - API endpoints
 - Database integration
 ---
-##📬 Contact
+## 📬 Contact
 
 LinkedIn: https://linkedin.com/in/jalsalgado
 
 Email: jalsalgado1@gmail.com
 ---
-##📄 License
+## 📄 License
 
 This project is open-source and available under the MIT License.
 ---
