@@ -57,6 +57,7 @@ My goal is to design systems that are:
 ---
 
 ## 📂 Project Structure
+```bash
 portfolio/
 │
 ├── app.py
@@ -67,7 +68,7 @@ portfolio/
 │ └── js/
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
@@ -97,3 +98,24 @@ http://127.0.0.1:5000
  ```bash
 http://127.0.0.1:5000
 ```
+##🎯 Features
+
+- Responsive UI
+- Flask-based backend structure
+- REST-ready architecture
+- Clean and modular project organization
+- Easily extendable for:
+- Contact forms
+- Authentication systems
+- API endpoints
+- Database integration
+
+##📬 Contact
+
+LinkedIn: https://linkedin.com/in/jalsalgado
+
+Email: jalsalgado1@gmail.com
+
+##📄 License
+
+This project is open-source and available under the MIT License.
