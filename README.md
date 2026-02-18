@@ -114,6 +114,7 @@ http://127.0.0.1:5000
 ## 📬 Contact
 
 LinkedIn: https://linkedin.com/in/jalsalgado
+
 Email: jalsalgado1@gmail.com
 
 ---
